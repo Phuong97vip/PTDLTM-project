@@ -1,0 +1,47 @@
+PHƯƠNG
+Nhiệm vụ: EDA & Thống kê mô tả
+Mô tả:
+- Phân tích phân bố giá nhà, correlation matrix.
+- Nhận xét về đặc điểm dữ liệu (missing values, skewness).
+Output: 
+- File code EDA (.ipynb).
+- Biểu đồ (histogram, boxplot) trong báo cáo.
+
+Khánh
+Nhiệm vụ: Xử lý outliers & Chuẩn hóa
+Mô tả: 
+- Loại bỏ outliers (IQR/Z-score).
+- Chuẩn hóa dữ liệu (MinMax/StandardScaler) và encoding.
+Output:
+- File code tiền xử lý (.ipynb).
+- Giải thích phương pháp trong báo cáo.
+
+Long
+Nhiệm vụ: Build Model
+Mô tả:
+- Triển khai Quantile Regression (LightGBM).
+- Tối ưu hyperparameter (GridSearchCV).
+Output: 
+- File code mô hình (.ipynb).
+- Kết quả Kaggle screenshot.
+
+Khoa
+Nhiệm vụ: Đánh giá Model
+Mô tả:
+- Tính toán metrics (PICP, MPIW, RMSE).
+- Submit kết quả lên Kaggle (đặt tên nhóm đúng format).
+Output: 
+- Bảng so sánh hiệu năng trong báo cáo.
+- Giải thích ưu/nhược điểm mô hình.
+
+Khôn
+Nhiệm vụ: Tổng hợp báo cáo & Slide
+Mô tả:
+- Viết báo cáo (đầy đủ sections theo yêu cầu).
+- Làm slide và ghi hình video thuyết trình.
+Output: 
+- File báo cáo (.pdf).
+- Slide thuyết trình (.pptx).
+- Video (link YouTube).
+
+
